@@ -2,3 +2,6 @@ venv/
 .idea/
 .ipynb_checkpoints/
 segment-anything/
+pretrained_unet_leaf.pth
+predicted_masks/
+dataset/
