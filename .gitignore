@@ -5,3 +5,5 @@ segment-anything/
 pretrained_unet_leaf.pth
 predicted_masks/
 dataset/
+Plant_Disease_Dataset_Unified/train/images_comparison/
+Plant_Disease_Dataset_Unified/train/images_nobg/
