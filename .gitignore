@@ -4,6 +4,7 @@ venv/
 segment-anything/
 pretrained_unet_leaf.pth
 predicted_masks/
+predicted_masks_with_UNET/
 dataset/
 Plant_Disease_Dataset_Unified/train/images_comparison/
 Plant_Disease_Dataset_Unified/train/images_nobg/
